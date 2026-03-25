@@ -1,9 +1,9 @@
-# PAWKER Portfolio Slice (Clean Architecture + Flavors/GoRouter + API + Auth Screens)
+# 파우커 Portfolio Slice (Clean Architecture + Flavors/GoRouter + API + Auth Screens)
 
 이 저장소는 원본 앱에서 **Clean Architecture 의존성 흐름**, 그리고 **개발/운영 환경 분기(flavor) + GoRouter 라우팅 구조**를 한 번에 보여주기 위해 만든 *sanitized slice* 입니다.
 
 ## Original Project Directory Structure (overview)
-아래 트리는 **원본 프로젝트의 구조(개요)**이고, 이 서브 레포(v4)는 그 중 **일부만 발췌(sanitized subset)** 한 것입니다.
+아래 트리는 **원본 프로젝트의 구조(개요)**이고, 이 서브 레포는 그 중 **일부만 발췌(sanitized subset)** 한 것입니다.
 
 - `lib/ui/features/` 전체가 들어있진 않고, 인증(Auth) 수직 슬라이스에 해당하는 부분만 포함됩니다.
 
